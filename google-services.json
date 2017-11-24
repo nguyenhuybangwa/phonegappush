@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "857694721214",
+    "firebase_url": "https://mysms-4575a.firebaseio.com",
+    "project_id": "mysms-4575a",
+    "storage_bucket": "mysms-4575a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857694721214:android:39f7976264e8d83f",
+        "android_client_info": {
+          "package_name": "build.gradle.sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857694721214-id67320guhk0sas0ibqk50fmlf68qsdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB71OI3whxYJsZWbuQ0YYAyTB2sI4TMHKo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857694721214:android:08f6bbf949ce7765",
+        "android_client_info": {
+          "package_name": "sms.modelife.net"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857694721214-id67320guhk0sas0ibqk50fmlf68qsdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB71OI3whxYJsZWbuQ0YYAyTB2sI4TMHKo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
